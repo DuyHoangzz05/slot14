@@ -1,0 +1,140 @@
+@import  url (http://fonts.googleapis.com/css?family=Karla:400 , 700 );
+cơ thể {
+    lề :  0 ;
+    phần đệm :  0 ;
+    màu nền :  # f1f1f1 ;
+    họ phông chữ :  'Karla' , sans-serif;
+     màu :  # 333 ;}
+tiêu đề {
+    màu nền :  # 333333 ;
+    lề :  0  0  40 px  0 ;
+    phần đệm :  10 px  0  0  0  0 % ;
+    chiều cao tối thiểu :  50 px ;
+    căn chỉnh văn bản : giữa;}
+h1 {
+    hình nền :  url ( '../img/creative-folk.png' );
+    lặp lại nền : không lặp lại;
+    vị trí nền : trung tâm;
+    lề :  tự động 10 px tự động 5 px ;
+    chiều rộng :  516 px ;
+    chiều cao :  21px ;
+    căn chỉnh văn bản : giữa;
+    thụt lề văn bản :  100 % ;
+    khoảng trắng : nowrap;
+    tràn : ẩn;}
+h2 {
+    cỡ chữ :  180 % ;
+    lề :  0 ;}
+h2 ,  h4 {
+    độ dày phông chữ : bình thường;}
+h4 {
+    màu :  # 333 ;
+    hiển thị : khối nội tuyến;
+    cỡ chữ :  120 % ;
+    lề :  5 px  0  5 px  0 ;}
+
+# tầm giá {
+    chiều rộng :  370 px ;
+    lề :  tự động 10 px , tự động 30 px ;
+    căn chỉnh văn bản : giữa;
+    độ dày phông chữ : in đậm;}
+# varlue-min ,  # varlue-max {
+    chiều rộng :  100px ;
+    đường viền : không có;
+    màu nền :  # f1f1f1 ;
+    họ phông chữ :  'Karla' , sans-serif;}
+# thanh trượt { lề :  30 px  0  30 px  0 ;}
+# nút ,  # tìm kiếm {
+    căn chỉnh văn bản : giữa;
+    lề dưới :  30 px ;}
+nút {
+    màu nền :  # d7d7d7 ;
+    đường viền : không có;
+    phần đệm :  3 px  10 px  4 px  10 px ;
+    bán kính đường viền :  4 px ;
+    màu :  # 333 ;
+    họ phông chữ :  'Karla' , sans-serif;2
+    phông chữ - kích thước : 100%;}
+nút : di chuột ,  nút . đang hoạt động {
+    màu nền :  # 00cccc ;
+    màu :  #fff ; _
+    con trỏ : con trỏ;}
+đầu vào {
+    cỡ chữ :  120 % ;
+    đường viền :  1 px liền khối # 999 ;
+    phần đệm :  5 px ;}
+đầu vào : di chuột {
+    đường viền :  1 px liền khối # 666 ;}
+đầu vào : tiêu điểm {
+    đường viền :  1 px liền khối # 00cccc ;
+    phác thảo : không có;}
+
+# phòng trưng bày {
+    căn chỉnh văn bản : giữa;
+    chiều rộng tối đa :  1020 px ;
+    lề :  0 tự động;}
+# thư viện  img {
+    chiều rộng :  300px ;
+    chiều cao :  150px ;
+    bán kính đường viền :  3 px ;
+    đường viền :  8 px rắn # fff ;
+    lề :  6px ; _
+     -webkit-box-shadow :  0  0  3 px  3 px  # ebebed ;
+     bóng hộp :  0  0  3 px  3 px  # ebebed ;
+     nổi : trái;}
+
+bàn {
+    lề :  0 tự động;
+    chiều rộng :  780 px ;}
+bảng # giá { chiều rộng :  380 px ;}
+thứ ,  td {
+    bán kính đường viền :  3 px ;
+    màu :  # 333 ;
+    phần đệm :  7 px  10 px  5 px  10 px ;
+    chiều rộng tối thiểu :  9 em ;
+    căn chỉnh văn bản : trái;}
+thứ {
+    màu nền :  # d7d7d7 ;
+    độ dày phông chữ : in đậm;
+    chuyển đổi văn bản : chữ hoa;}
+td {
+    màu nền :  # fff ;}
+bàn . tăng dần ,  th . giảm dần ,  bàn . có thể sắp xếp được  : di chuột {
+    màu nền :  # 00cccc ;
+    màu :  #fff ; }
+thứ . tăng dần : sau {
+    cỡ chữ :  60 % ;
+    nội dung :  '\25B2' ;
+    phao : trái;
+    phần đệm :  4 px  5 px  0  0 ;}
+thứ . giảm dần :: sau {
+    cỡ chữ :  60 % ;
+    nội dung :  '\25BC' ;
+    phao : trái;
+    phần đệm :  4 px  5 px  0  0 ;}
+. về {
+    chiều rộng :  780 px ;
+    lề :  0 tự động 40 px tự động;}
+. về :: sau {
+    nội dung :  "" ;
+    hiển thị : bảng;
+    rõ ràng : cả hai;}
+. về  h2 {
+    căn chỉnh văn bản : trái;
+    nổi : trái;}
+. sinh học {
+    phao : đúng;
+    chiều rộng :  195 px ;}
+. hình ảnh sinh học  {
+    phao : trái;
+    chiều rộng :  50px ;
+    chiều cao :   50px ;
+    lề phải :  10 px ;}
+
+. vị trí {
+    phần đệm bên trái :  74 px ;
+    hình nền :  url ( '../img/pointer.png' );
+    lặp lại nền : không lặp lại;
+    vị trí nền :  60 px  1 px ;
+    cỡ chữ :  90 % ;}
+
